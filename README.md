@@ -12,7 +12,7 @@
 https://youtu.be/gRXsUqXuAtk
 
 ## To Setup 
-- 
+- Clone to Desktop
 - Install Python 
 - pip install requirements
 - 
