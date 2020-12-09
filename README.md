@@ -1,7 +1,8 @@
 # Betfury Dicebot 🎲🎲
  A Dice ambling Bot for Farming BFG on Betfury
 
-*Sign Up Using Our link here to support development*
+*Sign Up Using Our link here to support development:*
+
 https://bit.ly/betfury-bot
 
 ### Requirements:
@@ -19,6 +20,7 @@ https://youtu.be/gRXsUqXuAtk
 - pip install requirements
 
 ## Discord Channel 
+
 https://discord.gg/vP72jzY2Tk
 
 
