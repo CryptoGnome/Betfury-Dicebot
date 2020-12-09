@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3.17794201 6.31170768 0.807276862 3.82401193 0 4.66517524 3.17794201 8 10 0.841163311 9.19840819 0"></polygon>
+    </defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.6-选择地址-" transform="translate(-34.000000, -134.000000)">
+            <g id="list1" transform="translate(20.000000, 103.000000)">
+                <g id="Group-2" transform="translate(14.000000, 31.000000)">
+                    <circle id="Oval" fill="#636ACC" cx="8" cy="8" r="8"></circle>
+                    <g id="ic_check_24px" transform="translate(3.000000, 4.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

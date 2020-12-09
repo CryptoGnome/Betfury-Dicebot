@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="318.59 6 314 10.58 309.41 6 308 7.41 314 13.41 320 7.41"></polygon>
+    </defs>
+    <g id="V2.4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6交易详情" transform="translate(-330.000000, -569.000000)">
+            <g id="分组-3" transform="translate(20.000000, 566.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Shape" fill="#576B94" fill-rule="nonzero" transform="translate(314.000000, 9.705000) rotate(270.000000) translate(-314.000000, -9.705000) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

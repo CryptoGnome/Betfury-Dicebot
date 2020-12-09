@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="60px" viewBox="0 0 309 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.91058604%" y1="48.3044997%" x2="98.4111125%" y2="51.814059%" id="linearGradient-1">
+            <stop stop-color="#6D72CC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#7F86F0" stop-opacity="0.596399694" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.29610572%" y1="49.6844166%" x2="98.4111125%" y2="51.8274221%" id="linearGradient-2">
+            <stop stop-color="#6D72CC" stop-opacity="0.53400896" offset="0%"></stop>
+            <stop stop-color="#565BA7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.91058604%" y1="48.249365%" x2="98.4111125%" y2="51.8730489%" id="linearGradient-3">
+            <stop stop-color="#6D72CC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#8D94FF" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-usdt详情" transform="translate(-24.000000, -192.000000)">
+            <g id="收益" transform="translate(20.000000, 192.000000)">
+                <g id="背景">
+                    <g id="分组-6" transform="translate(-24.854791, -77.331865)">
+                        <rect id="矩形" fill="url(#linearGradient-1)" transform="translate(47.500000, 121.738659) rotate(-40.000000) translate(-47.500000, -121.738659) " x="-5" y="111.738659" width="105" height="20" rx="10"></rect>
+                        <rect id="矩形-copy-2" fill="url(#linearGradient-2)" transform="translate(356.302052, 54.000000) rotate(-40.000000) translate(-356.302052, -54.000000) " x="288.302052" y="41" width="136" height="26" rx="13"></rect>
+                        <rect id="矩形-copy" fill="url(#linearGradient-3)" transform="translate(71.458894, 145.854547) rotate(-40.000000) translate(-71.458894, -145.854547) " x="40.458894" y="139.854547" width="62" height="12" rx="6"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

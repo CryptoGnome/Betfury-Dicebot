@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="6.17794201 10.3117077 3.80727686 7.82401193 3 8.66517524 6.17794201 12 13 4.84116331 12.1984082 4"></polygon>
+    </defs>
+    <g id="V3.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.1设置-1-copy" transform="translate(-39.000000, -94.000000)">
+            <g id="分组-11" transform="translate(24.000000, 77.000000)">
+                <g id="分组-10" transform="translate(0.000000, 14.000000)">
+                    <g id="分组-5">
+                        <g id="分组-4" transform="translate(15.000000, 3.000000)">
+                            <circle id="Oval" fill="#636ACC" cx="8" cy="8" r="8"></circle>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

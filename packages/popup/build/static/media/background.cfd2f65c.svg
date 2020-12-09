@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="315px" viewBox="0 0 360 315" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.1设置--切换节点">
+            <g id="分组-3" transform="translate(-83.000000, -55.000000)">
+                <path d="M83,315.639971 C82.6666148,315.427271 82.3332814,315.213948 82,315 L83,315 L83,55 L443,55 L443,315.162842 L442.717922,315.163498 C316.967309,387.999368 197.249081,388.277766 83.5632369,315.99869 L83,316 L83,315.639972 Z" id="合并形状" fill="#636ACC"></path>
+                <circle id="Oval" fill-opacity="0.04" fill="#FFFFFF" fill-rule="nonzero" cx="414" cy="83" r="83"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.04" fill="#FFFFFF" fill-rule="nonzero" cx="83" cy="272" r="83"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>锁定</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.1首页-账户-方案二" transform="translate(-269.000000, -20.000000)" fill="#636ACC">
+            <g id="导航" transform="translate(18.000000, 19.000000)">
+                <g id="锁定" transform="translate(251.000000, 1.000000)">
+                    <path d="M0,5 L16,5 L16,16 L0,16 L0,5 Z M2,7 L2,14 L14,14 L14,7 L2,7 Z" id="Combined-Shape"></path>
+                    <path d="M2.08295844,5 C2.55903653,2.16228666 5.02700371,0 8,0 C10.9729963,0 13.4409635,2.16228666 13.9170416,5 L11.8739825,5 C11.4299397,3.27477279 9.86383943,2 8,2 C6.13616057,2 4.57006028,3.27477279 4.12601749,5 L2.08295844,5 Z" id="Combined-Shape"></path>
+                    <rect id="Rectangle-23" x="7" y="9" width="2" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

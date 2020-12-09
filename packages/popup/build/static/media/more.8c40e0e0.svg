@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="4px" viewBox="0 0 18 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="租用银行-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TronBank-默认" transform="translate(-324.000000, -27.000000)" fill="#505160" fill-rule="nonzero">
+            <g id="导航">
+                <path d="M326,31 C324.895431,31 324,30.1045695 324,29 C324,27.8954305 324.895431,27 326,27 C327.104569,27 328,27.8954305 328,29 C328,30.1045695 327.104569,31 326,31 Z M333,31 C331.895431,31 331,30.1045695 331,29 C331,27.8954305 331.895431,27 333,27 C334.104569,27 335,27.8954305 335,29 C335,30.1045695 334.104569,31 333,31 Z M340,31 C338.895431,31 338,30.1045695 338,29 C338,27.8954305 338.895431,27 340,27 C341.104569,27 342,27.8954305 342,29 C342,30.1045695 341.104569,31 340,31 Z" id="more"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>英国</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="7" cy="7" r="7"></circle>
+    </defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.1设置密码" transform="translate(-273.000000, -51.000000)">
+            <g id="语言" transform="translate(267.000000, 19.000000)">
+                <g id="Group-3" transform="translate(0.000000, 26.000000)">
+                    <g id="英国" transform="translate(6.000000, 6.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                        <g mask="url(#mask-2)" fill-rule="nonzero">
+                            <g transform="translate(-4.000000, 0.000000)">
+                                <path d="M0,14.9140827 L22,14.9140827 L22,0 L0,0 L0,14.9140827 Z M0.0902449051,14.8407709 L21.9097731,14.8407709 L21.9097731,0.109922172 L0.0902449051,0.109922172 L0.0902449051,14.8407709 Z M21.9458711,14.8224657 L21.9458711,14.908383 L21.9458711,14.8224657 Z M0,14.9140827 L0,15 L0,14.9140827 Z" id="Fill-1" fill="#353636"></path>
+                                <polygon id="Fill-2" fill="#00458F" points="2 14 24 14 24 0 2 0"></polygon>
+                                <polygon id="Fill-3" fill="#FFFFFF" points="21 4.89739967 13.0033044 4.89739967 13.0033044 0 8.99671201 0 8.99671201 4.89739967 1 4.89739967 1 9.10260032 8.99671201 9.10260032 8.99671201 14 13.0033044 14 13.0033044 9.10260032 21 9.10260032"></polygon>
+                                <polygon id="Fill-4" fill="#FFFFFF" points="21 12.3906472 3.29188393 0 1 0 1 1.62667668 18.6916431 14 21 14"></polygon>
+                                <polygon id="Fill-5" fill="#FFFFFF" points="1 12.3906472 18.7081325 0 21 0 21 1.62667668 3.30834041 14 1 14"></polygon>
+                                <polygon id="Fill-6" fill="#CC3440" points="21 5.77995521 12.1624148 5.77995521 12.1624148 0 9.83756872 0 9.83756872 5.77995521 1 5.77995521 1 8.22004484 9.83756872 8.22004484 9.83756872 14 12.1624148 14 12.1624148 8.22004484 21 8.22004484"></polygon>
+                                <path d="M1,0 L1,1.10752675 L6.40805316,4.89740572 L8.00743498,4.89740572 L1,0 Z M7.95796702,9.10261156 L1,13.965421 L1,14 L2.51686952,14 L8.9966956,9.48332491 L8.9966956,9.10261156 L7.95796702,9.10261156 Z M21,0 L19.4171075,0 L13.003288,4.48207889 L13.003288,4.89740572 L13.9925651,4.89740572 L21,0 Z M21,13.965421 L21,12.8578943 L15.6248598,9.10261156 L14.042033,9.10261156 L21,13.965421 Z" id="Fill-7" fill="#CC3440"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

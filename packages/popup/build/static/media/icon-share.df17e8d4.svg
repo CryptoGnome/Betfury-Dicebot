@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6交易详情" transform="translate(-327.000000, -22.000000)" fill="#4E5383">
+            <g id="分组" transform="translate(327.000000, 22.000000)">
+                <path d="M13.4066017,3.83823954 L11.9399351,2.37157288 L14.1399351,0.171572875 L15.6066017,1.63823954 L13.4066017,3.83823954 Z M11.9399351,5.30490621 L6.07326838,11.1715729 L4.60660172,9.70490621 L10.4732684,3.83823954 L11.9399351,5.30490621 Z" id="合并形状"></path>
+                <path d="M10,0 L10,2 L2,2 L2,14 L14,14 L14,6 L16,6 L16,16 L0,16 L0,0 L10,0 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

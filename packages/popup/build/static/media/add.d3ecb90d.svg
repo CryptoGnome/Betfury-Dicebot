@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="租用银行-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TronBank-默认" transform="translate(-304.000000, -410.000000)" fill="#505160" fill-rule="nonzero">
+            <g id="接收账户-copy" transform="translate(18.000000, 276.000000)">
+                <g id="Group-Copy" transform="translate(12.000000, 124.000000)">
+                    <path d="M281,17 L281,10 L283,10 L283,17 L290,17 L290,19 L283,19 L283,26 L281,26 L281,19 L274,19 L274,17 L281,17 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

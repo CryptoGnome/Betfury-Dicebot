@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>立即锁定</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="方案1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.1设置" transform="translate(-20.000000, -219.000000)" fill="#515060">
+            <g id="立即锁定" transform="translate(20.000000, 219.000000)">
+                <g id="Group-4" transform="translate(2.000000, 2.000000)" fill-opacity="0.5">
+                    <rect id="Rectangle-12" x="7" y="0" width="1" height="3"></rect>
+                    <rect id="Rectangle-12-Copy" x="7" y="12" width="1" height="3"></rect>
+                    <rect id="Rectangle-12-Copy-2" transform="translate(13.500000, 7.500000) rotate(90.000000) translate(-13.500000, -7.500000) " x="13" y="6" width="1" height="3"></rect>
+                    <rect id="Rectangle-12-Copy-3" transform="translate(1.500000, 7.500000) rotate(90.000000) translate(-1.500000, -7.500000) " x="1" y="6" width="1" height="3"></rect>
+                </g>
+                <path d="M9.5,19 C4.25329488,19 0,14.7467051 0,9.5 C0,4.25329488 4.25329488,0 9.5,0 C14.7467051,0 19,4.25329488 19,9.5 C19,14.7467051 14.7467051,19 9.5,19 Z M9.5,17 C13.6421356,17 17,13.6421356 17,9.5 C17,5.35786438 13.6421356,2 9.5,2 C5.35786438,2 2,5.35786438 2,9.5 C2,13.6421356 5.35786438,17 9.5,17 Z" id="Combined-Shape"></path>
+                <rect id="Rectangle-10-Copy" fill-opacity="0.5" x="8" y="8" width="3" height="3" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

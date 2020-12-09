@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4我的资产" transform="translate(-319.000000, -111.000000)">
+            <g id="搜索" transform="translate(18.000000, 72.000000)">
+                <g id="搜索框" transform="translate(0.000000, 30.000000)">
+                    <g id="ic_search" transform="translate(301.000000, 9.000000)">
+                        <path d="M12.8277586,12.2831925 C14.0035732,10.977307 14.7282809,9.25502509 14.7282809,7.36414044 C14.7282809,3.30376341 11.4245175,0 7.36414044,0 C3.30376341,0 0,3.30376341 0,7.36414044 C0,11.4245175 3.30376341,14.7282621 7.36414044,14.7282621 C9.1191377,14.7282621 10.7325252,14.1085711 11.9979777,13.080258 L12.8277586,12.2831925 Z M1.44564885,7.27065257 C1.44564885,4.05824339 4.0591256,1.44564885 7.27065257,1.44564885 C10.4821619,1.44564885 13.0956386,4.05824339 13.0956386,7.27065257 C13.0956386,10.4830617 10.4830617,13.0956563 7.27065257,13.0956563 C4.05822575,13.0956563 1.44564885,10.4839616 1.44564885,7.27065257 Z" id="sousuo-(2)" fill="#515060"></path>
+                        <path d="M13.5,12.5 L16.5,15.5" id="Line" stroke="#515060" stroke-width="1.5" stroke-linecap="square" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

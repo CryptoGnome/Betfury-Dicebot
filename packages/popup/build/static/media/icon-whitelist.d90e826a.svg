@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="20px" viewBox="0 0 17 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.1设置-1" transform="translate(-21.000000, -72.000000)" fill="#505160">
+            <g id="分组" transform="translate(21.000000, 72.000000)">
+                <rect id="矩形" fill-opacity="0.5" x="6.61111111" y="8.5" width="6.61111111" height="1.88888889"></rect>
+                <rect id="矩形-copy-2" fill-opacity="0.5" x="6.61111111" y="12.2777778" width="4.72222222" height="1.88888889"></rect>
+                <rect id="矩形-copy" fill-opacity="0.5" x="3.77777778" y="8.5" width="1.88888889" height="1.88888889"></rect>
+                <rect id="矩形-copy-3" fill-opacity="0.5" x="3.77777778" y="12.2777778" width="1.88888889" height="1.88888889"></rect>
+                <path d="M4.72222222,1.88888889 L4.72222222,3.77777778 L1.88888889,3.77777778 L1.88888889,17.9444444 L15.1111111,17.9444444 L15.1111111,3.77777778 L12.2777778,3.77777778 L12.2777778,1.88888889 L17,1.88888889 L17,19.8333333 L0,19.8333333 L0,1.88888889 L4.72222222,1.88888889 Z" id="合并形状"></path>
+                <path d="M3.77777778,0 L13.2222222,0 L13.2222222,5.66666667 L3.77777778,5.66666667 L3.77777778,0 Z M5.66666667,1.88888889 L5.66666667,3.77777778 L11.3333333,3.77777778 L11.3333333,1.88888889 L5.66666667,1.88888889 Z" id="合并形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>

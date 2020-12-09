@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.01,12 L5,12 L5,14 L12.01,14 L12.01,17 L16,13 L12.01,9 L12.01,12 Z M3.99,11 L3.99,8 L11,8 L11,6 L3.99,6 L3.99,3 L0,7 L3.99,11 Z" id="path-1"></path>
+    </defs>
+    <g id="方案1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.1首页-账户-方案二" transform="translate(-231.000000, -182.000000)">
+            <g id="账户" transform="translate(0.000000, 58.000000)">
+                <g id="收款-copy-2" transform="translate(75.000000, 121.000000)">
+                    <g id="Group-2" transform="translate(156.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Shape" fill="#F7F8FA" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_help</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="租用银行-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TronBank-默认" transform="translate(-263.000000, -77.000000)" fill-rule="nonzero">
+            <g id="导航">
+                <g id="更多" transform="translate(255.000000, 41.000000)">
+                    <g id="Group-4" transform="translate(8.000000, 34.000000)">
+                        <g id="ic_help" transform="translate(0.000000, 2.000000)">
+                            <path d="M11,9 L11,1 L1,1 L1,9 L11,9 Z M11,10 L1,10 L1,12 L11,12 L11,10 Z M0,0 L12,0 L12,13 L0,13 L0,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                            <path d="M4.5,0.5 L4.5,5.86358969 L6.90613176,4.31194625 L9.31226352,5.86358969 L9.31226352,0.5 L4.5,0.5 Z" id="Rectangle-18" stroke="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

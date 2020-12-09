@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="23px" viewBox="0 0 27 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-15.000000, -70.000000)">
+            <g id="Group-15" transform="translate(16.000000, 70.000000)">
+                <g id="分组-6">
+                    <g id="分组-3" transform="translate(2.064073, 11.643021)" stroke="#FFFFFF">
+                        <path d="M0.935926773,3.85697941 L7.93592677,3.85697941" id="路径"></path>
+                        <path d="M0.935926773,3.85697941 L7.93592677,3.85697941" id="路径-copy" transform="translate(4.435927, 3.856979) rotate(90.000000) translate(-4.435927, -3.856979) "></path>
+                    </g>
+                    <g id="分组-2" transform="translate(1.130435, 0.000000)" fill="#FFFFFF">
+                        <path d="M13.2034783,5.65217391 L24.5078261,5.65217391 L24.5078261,12.4347826 L13.2034783,12.4347826 L13.2034783,5.65217391 Z M14.333913,6.7826087 L14.333913,11.3043478 L23.3773913,11.3043478 L23.3773913,6.7826087 L14.333913,6.7826087 Z" id="Combined-Shape-Copy-2"></path>
+                        <path d="M12.0183066,21.4782609 L0.773455378,21.4782609 L0.773455378,12.0268061 L2.11212815,12.0268061 L2.11212815,20.3478261 L12.0183066,20.3478261 L12.0183066,21.4782609 Z M24.5125858,7.50506702 L23.0251716,7.50506702 L23.0251716,1.13043478 L2.11212815,1.13043478 L2.11212815,6.37463223 L0.773455378,6.37463223 L0.773455378,0 L24.5125858,0 L24.5125858,7.50506702 Z" id="合并形状" transform="translate(12.643021, 10.739130) scale(-1, 1) translate(-12.643021, -10.739130) "></path>
+                    </g>
+                    <circle id="椭圆形" stroke="#FFFFFF" cx="6.5" cy="15.5732265" r="6.5"></circle>
+                    <circle id="椭圆形-copy" fill="#FFFFFF" cx="18.0869565" cy="9.04347826" r="1.13043478"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

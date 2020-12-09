@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>分组 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,0 L7,0 C10.8659932,-7.10171439e-16 14,3.13400675 14,7 L14,7 C14,10.8659932 10.8659932,14 7,14 L7,14 C3.13400675,14 4.73447626e-16,10.8659932 0,7 L0,7 C-4.73447626e-16,3.13400675 3.13400675,7.10171439e-16 7,0 Z" id="path-1"></path>
+        <filter x="-42.9%" y="-42.9%" width="185.7%" height="185.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.1首页-账户-带广告-copy-6" transform="translate(-187.000000, -237.000000)">
+            <g id="Group-19" transform="translate(12.000000, 224.000000)">
+                <g id="分组-2" transform="translate(179.000000, 17.000000)">
+                    <g id="Rectangle-Copy-4">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M4.35027592,7.77960389 C4.10516669,7.77960389 3.93599648,7.57005593 4.02324486,7.37453199 L5.88965157,3.19237741 C5.94134907,3.07654155 6.07147486,2.9999945 6.21668262,3 L9.36622138,3 C9.61475404,3 9.78407738,3.21496336 9.69029931,3.41143033 L8.60351714,5.68852194 L10.6493753,5.68852194 C10.9502657,5.68852194 11.1108719,5.99122412 10.9124001,6.18428312 L5.89644375,11.063465 C5.65260327,11.3006595 5.20051291,11.0950517 5.2951113,10.7899873 L6.22862637,7.77960389 L4.35027592,7.77960389 Z M5.23541575,6.78721427 L7.18474882,6.78721427 C7.38187205,6.78721427 7.52556726,6.96218954 7.47512467,7.14080811 L6.64178467,9.18157959 L9.18756104,6.44500732 L7.7532959,6.44500732 C7.53997809,6.44500732 7.39463057,6.24239929 7.47512467,6.05721574 L8.39794922,3.92102051 L6.61981201,3.92810393 L5.23541575,6.78721427 Z" id="形状" fill="#636ACC" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

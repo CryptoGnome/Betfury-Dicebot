@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>ic/arrow_back_ios</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11.67 3.87 9.9 2.1 0 12 9.9 21.9 11.67 20.13 3.54 12"></polygon>
+    </defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8.1收款地址" transform="translate(-17.000000, -19.000000)">
+            <g id="ic/arrow_back_ios" transform="translate(17.000000, 17.000000)">
+                <g id="ic_arrow_back_ios_24px">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Shape" fill-rule="nonzero"></g>
+                    <g id="c/#000000/0.54" mask="url(#mask-2)" fill="#fff" fill-opacity="1">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

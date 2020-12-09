@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-test</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.33671269e-16 0 40 0 40 40 1.33671269e-16 40"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="初始页面" transform="translate(-160.000000, -93.000000)">
+            <g id="icon-test" transform="translate(160.000000, 93.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M38.2710267,16.896536 L21.7194889,16.896536 L21.7194889,1.72436527 C21.7194889,0.775227263 20.944355,0 19.9952725,0 C19.0462488,0 18.2711148,0.775227263 18.2711148,1.72436527 L18.2711148,16.896536 L1.72415768,16.896536 C0.775133934,16.896536 0,17.6717633 0,18.6209013 C0,19.5700393 0.775133934,20.3452666 1.72415768,20.3452666 L18.2756955,20.3452666 L18.2756955,38.2756347 C18.2756955,39.2247727 19.0508294,40 19.9999119,40 C20.9489357,40 21.7243045,39.2247727 21.7243045,38.2756347 L21.7243045,20.3452666 L38.2758423,20.3452666 C39.2248661,20.3452666 40,19.5700393 40,18.6209013 C39.9951844,17.6717633 39.2200505,16.896536 38.2710267,16.896536 Z" id="Fill-1" fill="#B1B4E5" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

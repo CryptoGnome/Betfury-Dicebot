@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="89.1031901%" y1="10.8723958%" x2="18.2373047%" y2="85.3271484%" id="linearGradient-1">
+            <stop stop-color="#35B0E7" offset="0%"></stop>
+            <stop stop-color="#1F96D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="租用银行-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="帮助" transform="translate(-18.000000, -313.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-4" transform="translate(18.000000, 283.000000)">
+                <path d="M12.9480705,45.1327193 L9.2688384,43.4530915 L7.70932617,45.1327193 L7.70932617,42.8532551 L14.6904878,35.8146113 L6.3494212,42.1332836 L3.75,40.8085392 L16.25,34.375 L12.9480705,45.1327193 Z M10,30 C4.47719381,30 0,34.4771692 0,40 C0,45.5228308 4.47719381,50 10,50 C15.5228308,50 20,45.5228308 20,40 C20,34.4771692 15.5228308,30 10,30 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

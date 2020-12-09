@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="TRONLink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-添加trc20" transform="translate(-232.000000, -102.000000)" fill="#FFFFFF">
+            <g id="更多" transform="translate(224.000000, 93.000000)">
+                <g id="Group-5-Copy" transform="translate(8.000000, 6.000000)">
+                    <g id="add" transform="translate(0.000000, 3.000000)">
+                        <path d="M6,12 C2.6862915,12 0,9.3137085 0,6 C0,2.6862915 2.6862915,0 6,0 C9.3137085,0 12,2.6862915 12,6 C12,9.3137085 9.3137085,12 6,12 Z M6,11 C8.76142375,11 11,8.76142375 11,6 C11,3.23857625 8.76142375,1 6,1 C3.23857625,1 1,3.23857625 1,6 C1,8.76142375 3.23857625,11 6,11 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+                        <rect id="Rectangle-11-Copy-2" x="3.5" y="5.5" width="5" height="1"></rect>
+                        <rect id="Rectangle-11-Copy-3" x="5.5" y="3.5" width="1" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
